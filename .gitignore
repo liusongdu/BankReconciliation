@@ -1,0 +1,9 @@
+.idea/
+log/*.log
+!log/
+setting/prod_setting.cfg
+setting/prod_setting.xml
+setting/dev_setting.cfg
+setting/dev_setting.xml
+*.pyc
+*.test
